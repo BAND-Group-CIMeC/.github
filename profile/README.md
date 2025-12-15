@@ -1,4 +1,4 @@
-# BAND-Group-CIMeC
+# BAND Group @CIMeC
 
 ![Logo BAND (1)](https://github.com/user-attachments/assets/3a431577-adc9-46d4-bfe6-9c5042eaca3a)
 
